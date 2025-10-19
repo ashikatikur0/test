@@ -1,3 +1,7 @@
 *{
     font: 1em sans-serif;
 }
+h2{
+    font: optional; 
+    color: blue;
+}
